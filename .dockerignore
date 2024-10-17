@@ -1,0 +1,6 @@
+data/ortho/ortho.tif
+*.tif
+*.tiff
+
+output/
+temp_clipped_panels/
